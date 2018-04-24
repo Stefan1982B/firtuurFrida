@@ -1,6 +1,10 @@
 @charset "UTF-8";
 
 h1{
-	font-size: 2em;
+	font-size: 3em;
 	color:red;
+}
+h2{
+	font-size: 2em;
+	color:green;
 }
